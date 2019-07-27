@@ -4,7 +4,7 @@ Example of testing Powershell modules using Sparrow6
 
 # Usage
 
-## Write Powershell module:
+## Write Powershell module
 
 `modules/hello/hello.ps1`
 
@@ -18,7 +18,7 @@ Example of testing Powershell modules using Sparrow6
       Write-Host Hello $name
     }
 
-## Write Sparrow6 wrapper:
+## Write Sparrow6 wrapper
 
     mkdir -p .tom/tasks/hello
 
